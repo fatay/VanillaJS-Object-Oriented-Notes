@@ -1,6 +1,5 @@
-# VanillaJS Object-Oriented Lesson Notes
+# Table Of Contents
 
-## Table Of Contents
 ### Tutorial1 
 ES5 Constructor functions, defining an object.
 
